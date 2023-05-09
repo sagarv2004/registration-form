@@ -1,0 +1,25 @@
+<!doctype html>
+<html> 
+<body>
+<form>
+<h1>registartion form</h1>
+<label> name:</label><input type="text">
+<label><br><br> Email id:</label><input type="text"></br><br>
+<LABEL> gender:</label><input 
+type="radio"name="gender">male
+<input type="radio"name="gender">female<br><br>
+<label> hobbies:</label><input type="checkbox" name="hobbies"> singing
+<input type="checkbox" name="hobbies">dancing
+<input type="checkbox" name="hobbies">cooking
+<BR><BR><label>courses :</label><select>
+<option name="b.tech">b.tech</option>
+<option name="m.tech">m.tech</option>
+<option name="BCA">BCA</option>
+<option name="MBA">MBA</option>
+<option name="iti">iti</option>
+<label>PASSWORD:</label><input type="password">
+
+
+</form>
+</body>
+</html>
